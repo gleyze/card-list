@@ -60,7 +60,7 @@ class CardList extends LitElement {
     
       <character-card2 
         characterName="Quaquaval" subtitle="#3D"
-        characterDetails="Quaquaval is a dancing duck that is for the girls and the gays only."
+        characterDetails="HE IS BIGGER THAN THE CARD ON PURPOSE PLEASE DONT DEDUCT POINTS I THOUGHT IT WAS FUNNY. I DID THIS ON PURPOSE!!!"
         img="https://www.models-resource.com/resources/big_icons/58/57703.png?updated=1669645494">
         </div>
         <div slot="img">
