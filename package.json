@@ -17,7 +17,8 @@
   },
   "dependencies": {
     "character-card2": "^0.0.3",
-    "lit": "^2.0.2"
+    "lit": "^2.0.2",
+    "mary-card": "^0.0.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.16.4",

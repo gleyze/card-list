@@ -79,6 +79,55 @@ class CardList extends LitElement {
             bottom-text="ditto!"></meme-maker>
         </div>
       </character-card2>
+
+
+
+    <mary-card>
+      <h1 id="title">Week 3 Homework!</h1>
+      <img src="https://i.kym-cdn.com/entries/icons/mobile/000/039/424/catfp.jpg" alt="Description for image" width="400" height="250">
+
+      <p> Little tiny black cat that got into the milk. He will continue to drink the milk because he's hungry. He's cute and funny. 
+     </p>
+   <button id="detailBtn">Details</button>
+    </mary-card>
+
+    <mary-card>
+      <h1 id="title">Sad Cat!</h1>
+      <img src="https://www.pngmart.com/files/22/Sad-Cat-Meme-Download-PNG-Image.png" alt="Description for image" width="400" height="250">
+
+      <p> Even though sad cat is sad, he give u thumbs up.  
+     </p>
+   <button id="detailBtn">Details</button>
+    </mary-card>
+
+    <mary-card>
+    <h1 id="title">Coughing Cat!</h1>
+      <img src="https://www.kindpng.com/picc/m/370-3708691_cat-meme-funny-cat-meme-head-transparent-hd.png" alt="Description for image" width="400" height="250">
+
+      <p> cat coughing like how little kids cough. 
+     </p>
+   <button id="detailBtn">Details</button>
+    </mary-card>
+
+
+    <mary-card>
+    <h1 id="title">Grumpy Cat!</h1>
+      <img src="https://www.seekpng.com/png/detail/26-261011_grumpy-cat-clipart-transparent-grumpy-cat-meme-png.png" alt="Description for image" width="400" height="250">
+
+      <p> the classic cat meme. 
+     </p>
+   <button id="detailBtn">Details</button>
+    </mary-card>
+
+    <mary-card>
+    <h1 id="title">Dabloon Cat!</h1>
+      <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/482/845/658.jpg" alt="Description for image" width="400" height="250">
+
+      <p> you have been graciously blessed with 4 dabloons. 
+     </p>
+   <button id="detailBtn">Details</button>
+    </mary-card>
+
     `;
   }
 }
